@@ -1,29 +1,118 @@
-<style>
-top-box{
+body{
+background-image: radial-gradient(circle at top left, #0078b9 5%, #80379b 95%); ;
+}
+
+}
+.img-logo {
+  margin:auto;
+  padding:0px;
+  width: 145px;
+  height: 50px;
   text-align:center;
-  font-size:20px;
-  margin:15px 0px;
-  padding:10px;
-  width:100%;
-  color:rgba(255,255,255,.8);
-  font-family: "museo-sans", "Museo Sans", "Helvetica Neue", "Arial", sans-serif;
 }
 
-log-in-box{
- text-align:center;
-  font-size:20px;
-  margin:15px 0px;
-  padding:35px;
-  width:100%;
-  color:rgba(255,255,255,.8);
-  font-family: "museo-sans", "Museo Sans", "Helvetica Neue", "Arial", sans-serif;
+h2{
+   font-family: "museo-sans", "Museo Sans";
+    padding: 12px;
+    font-size: 24px;
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    border-radius: 5px;
+    color: rgba(255, 255, 255, 0.8);
+    z-index: 5;
+    vertical-align: middle;
+    text-decoration: none;
+    min-width: 100px;
+    text-align: center;
+    margin:auto;
+    font-weight:bold;
+    width:400px;
+    height:20px;
+
 }
 
-bottom-box{
-  font-size:20px;
-  margin:15px 0px;
-  padding:35px;
-  width:100%;
-  color:rgba(255,255,255,.8);
+#hover{
+  animation-name:sign-in;
+  animation-duration:.01s;
 }
-</style>
+  .sign-in {
+    font-family: "museo-sans", "Museo Sans";
+    padding: 12px;
+    font-size: 14px;
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    border-radius: 5px;
+    color: rgba(255, 255, 255, 0.8);
+    z-index: 5;
+    vertical-align: middle;
+    text-decoration: none;
+    min-width: 100px;
+    text-align: center;
+    margin:auto;
+    width:400px;
+    height:20px;
+}
+
+.par{
+    font-family: "museo-sans", "Museo Sans";
+    padding: 10px;
+    font-size: 13px;
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    border-radius: 5px;
+    color: rgba(255, 255, 255, 0.8);
+    z-index: 5;
+    vertical-align: middle;
+    text-decoration: none;
+    min-width: 100px;
+    text-align:center;
+    margin:auto;
+     width:400px;
+    height:20px;
+}
+
+.ins{
+    font-family: "museo-sans", "Museo Sans";
+    padding: 10px;
+    font-size: 13px;
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    border-radius: 5px;
+    color: rgba(255, 255, 255, 0.8);
+    z-index: 5;
+    vertical-align: middle;
+    text-decoration: none;
+    min-width: 100px;
+    text-align:center;
+    margin:auto;
+    height:20px;
+    width:400px;
+}
+
+.for{
+    font-family: "museo-sans", "Museo Sans";
+    padding: 10px;
+    font-size: 13px;
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    border-radius: 5px;
+    color: rgba(255, 255, 255, 0.8);
+    z-index: 5;
+    vertical-align: middle;
+    text-decoration: none;
+    min-width: 100px;
+    text-align:center;
+    margin:auto;
+    width:400px;
+    height:20px;
+    text-height:0px;
+}
+
+.bot{
+  text-align:center;
+  color:rgba(225,225,225,0.8);
+  font-family: "Helvetica Neue", Helvetica;
+  font-size: 13px;
+  line-height: 18px;
+  margin:auto;
+}
