@@ -1,5 +1,8 @@
 # SEPS2M1CCP
 Link to site on github pages:
+https://pupilpath.skedula.com/
+
+Link to SEPS2M2CCP Repo:
 https://github.com/Maies2096/SEPS2M1CCP
 
 Link to gDoc plan (public to HSTAT):
