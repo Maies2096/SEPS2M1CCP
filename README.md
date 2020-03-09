@@ -2,6 +2,9 @@
 Link to site on github pages:
 https://pupilpath.skedula.com/
 
+Link to github.io:
+maies2096.github.io
+
 Link to SEPS2M2CCP Repo:
 https://github.com/Maies2096/SEPS2M1CCP
 
